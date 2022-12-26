@@ -75,7 +75,7 @@
                                     </svg></a></span>
                         </div>
                     </li>
-                    <li <li class="nav-item col-11 col-md-auto mx-1">
+                    <li class="nav-item col-11 col-md-auto mx-1">
                         <a class="nav-link" data-toggle="modal" style="cursor: pointer;">Hello <?= $data; ?></a>
                     </li>
                     </li>
